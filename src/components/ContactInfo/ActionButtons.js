@@ -2,7 +2,7 @@ import React from 'react';
 
 const ActionButtons = () => {
     return (
-        <div>
+        <div className="action-buttons">
             
         </div>
     );
